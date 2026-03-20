@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./banner.png" alt="iDOLM@STER-CODE Banner" width="100%">
+  <img src="./git1.png" alt="iDOLM@STER-CODE Banner" width="100%">
 </div>
 
 ---
