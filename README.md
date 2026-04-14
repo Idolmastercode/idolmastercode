@@ -22,7 +22,7 @@ Here are the technologies I love working with:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=plastic&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=plastic&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=nodedotjs&logoColor=white)
