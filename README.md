@@ -25,7 +25,7 @@ Here are the technologies I love working with:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=plastic&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=plastic&logo=dotnet&logoColor=white)
