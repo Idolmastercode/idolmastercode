@@ -37,4 +37,4 @@ Here are the technologies I love working with:
 
 ---
 
-🚀 **Check out my personal projects:** [https://idolmastercode.github.io/]
+**Check out my personal projects:** [https://idolmastercode.github.io/]
