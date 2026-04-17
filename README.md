@@ -20,10 +20,10 @@ Here are the technologies I love working with:
 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=plastic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
